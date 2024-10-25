@@ -8,4 +8,5 @@ CREATE DATABASE pizzaria;
 
 Em Tinker:
 ```\App\Models\Pizza::create(['name' => 'Margherita', 'description' => 'Molho de tomate, mussarela e manjericão.', 'price' => 25.00]);```
+<br>
 ```\App\Models\Pizza::create(['name' => 'Calabresa', 'description' => 'Molho de tomate, mussarela e calabresa.', 'price' => 27.00]);```
