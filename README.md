@@ -1,4 +1,5 @@
 <h1>Crie um banco de dados com o nome especificado no arquivo .env:</h1>
+
 ```CREATE DATABASE pizzaria;```
 
 <p>Inserir Dados no Banco de Dados com Tinker:</p>
