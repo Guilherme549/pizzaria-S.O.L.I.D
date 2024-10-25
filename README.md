@@ -7,5 +7,5 @@ CREATE DATABASE pizzaria;
 ```php artisan tinker```
 
 Em Tinker:
-```\App\Models\Pizza::create(['name' => 'Margherita', 'description' => 'Molho de tomate, mussarela e manjericão.', 'price' => 25.00]);
-\App\Models\Pizza::create(['name' => 'Calabresa', 'description' => 'Molho de tomate, mussarela e calabresa.', 'price' => 27.00]);```
+```\App\Models\Pizza::create(['name' => 'Margherita', 'description' => 'Molho de tomate, mussarela e manjericão.', 'price' => 25.00]);```
+```\App\Models\Pizza::create(['name' => 'Calabresa', 'description' => 'Molho de tomate, mussarela e calabresa.', 'price' => 27.00]);```
