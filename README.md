@@ -2,7 +2,7 @@
 CREATE DATABASE pizzaria;
 
 
-Inserir Dados no Banco de Dados com Tinker:
+<p>Inserir Dados no Banco de Dados com Tinker:</p>
 
 php artisan tinker
 
